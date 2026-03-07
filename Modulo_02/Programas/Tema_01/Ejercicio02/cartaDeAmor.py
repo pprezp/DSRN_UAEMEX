@@ -3,12 +3,10 @@ parrafo2 = "En el corazón de una historia de amor tecnológica, Lucas y Carla c
 parrafo3 = "En cada amanecer, veo el brillo de tus ojos; en cada atardecer, siento el calor de tu abrazo; y en cada noche estrellada, me pierdo en el infinito de tu amor." 
 
 primerParrafo = parrafo1[1::18]
-
 segundoParrafo = parrafo2[138:148]
-
 tercerParrafo = parrafo3[125] + parrafo3[94] + parrafo3[35] + parrafo3[107] + parrafo3[20] + parrafo3[1]
 
 print("Mensajes codificados")
-print("Mensajes Secreto 1: \n", primerParrafo)
-print("Mensajes Secreto 2: \n", segundoParrafo)
-print("Mensajes Secreto 3: \n", tercerParrafo)
+print("Mensajes Secreto 1: ", primerParrafo)
+print("Mensajes Secreto 2: ", segundoParrafo)
+print("Mensajes Secreto 3: ", tercerParrafo)
