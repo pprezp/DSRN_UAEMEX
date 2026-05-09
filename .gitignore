@@ -218,3 +218,7 @@ __marimo__/
 dev/
 
 *lock*
+
+*.jpg
+*.jpeg
+*.webp
